@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammet Nakış</h1>
 <h3 align="center">A passionate Computer Programmer from Turkey</h3>
 
+ ![ezgif-1-2601ff7496](https://user-images.githubusercontent.com/115930827/196054073-421d72ba-31a1-49f0-8b29-14187e16018b.gif)
+ 
+ 
 - 🌱 I’m currently learning **C,C++,Java,Phyton**
 
 - 📫 How to reach me **muhammetnakiss@gmail.com**
-
-<img align="center" ![ezgif-1-2601ff7496](https://user-images.githubusercontent.com/115930827/196054073-421d72ba-31a1-49f0-8b29-14187e16018b.gif)/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
