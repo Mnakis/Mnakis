@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **C,C++,Java,Phyton**
 
 - 📫 How to reach me **muhammetnakiss@gmail.com**
-![ezgif-1-2601ff7496](https://user-images.githubusercontent.com/115930827/196053918-d5359bc9-05c7-4e7a-95e9-6641a8e6e1e3.gif)
 
+![ezgif-1-2601ff7496](https://user-images.githubusercontent.com/115930827/196053918-d5359bc9-05c7-4e7a-95e9-6641a8e6e1e3.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
