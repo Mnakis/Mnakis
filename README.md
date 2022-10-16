@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **muhammetnakiss@gmail.com**
 
-<img src="(https://user-images.githubusercontent.com/115930827/196053918-d5359bc9-05c7-4e7a-95e9-6641a8e6e1e3.gif)"/>
+<img src="![ezgif-1-2601ff7496](https://user-images.githubusercontent.com/115930827/196054073-421d72ba-31a1-49f0-8b29-14187e16018b.gif)"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
