@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammet Nakış</h1>
 <h3 align="center">A passionate Computer Programmer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  
  
 - 🌱 I’m currently learning **C,C++,Java,Phyton**
